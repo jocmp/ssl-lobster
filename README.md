@@ -41,7 +41,7 @@ Install [Homebrew](https://docs.brew.sh/) on your system before continuing.
     ```
     make run
     ```
-    You should see a familiar nautical crustacean in your web browser at <https://example.com:3001>. Note the use of HTTPS instead of an unsecured connection.
+    You should see a familiar nautical crustacean in your web browser at <https://example.test:3001>. Note the use of HTTPS instead of an unsecured connection.
 
 ## Attribution
 
