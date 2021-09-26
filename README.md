@@ -1,6 +1,6 @@
 # SSL Lobster
 
-A demo site using the [Rack lobster](https://www.rubydoc.info/gems/rack/Rack/Lobster) application to demo local SSL certs in Rack.
+A demo site using the [Rack lobster](https://www.rubydoc.info/gems/rack/Rack/Lobster) application to showcase local SSL certs in Rack.
 
 ```
                              ,.---._
